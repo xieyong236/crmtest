@@ -9,5 +9,6 @@ public class Test01
                 System.out.println("GitHub Server Info: Random Update ...");
                 System.out.println("Local  Server Info: Random Update ...");
                 System.out.println("GitHub Server Info: Random Update ... Conflict!");
+                System.out.println("666");
             }
     }
